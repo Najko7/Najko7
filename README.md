@@ -1,16 +1,38 @@
-## Hi there 👋
+# Hi, I'm Niko! 👋
 
-<!--
-**Najko7/Najko7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Data Analyst with a background in Bioinformatics Engineering and hands-on experience in production process optimization. I specialize in the full data lifecycle: from querying large datasets (SQL) and data wrangling (Python) to building interactive business dashboards (Power BI, Tableau).
 
-Here are some ideas to get you started:
+Thanks to my experience in operational and laboratory environments, I excel at translating raw process data into measurable business KPIs.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Tech Stack
+
+* **Data Analysis:** SQL (PostgreSQL, MySQL), Python (Pandas, NumPy, Matplotlib), Excel / Google Sheets
+* **Business Intelligence:** Power BI, Tableau, Looker Studio, ETL, Data Modeling
+* **Methodologies & Tools:** Git/GitHub, Agile, Scrum, Kanban, CRM, ERP
+* **Specialized Skills:** A/B Testing, Statistical Analysis, Process Optimization
+
+---
+
+## 📈 Key Areas of Interest
+
+* **E-commerce & Sales Analytics:** Advanced SQL queries (CTEs, Window Functions) to optimize funnels and calculate key business metrics.
+* **Process & Quality Analytics:** Monitoring production data, identifying anomalies, and streamlining workflows.
+* **AI & Modern Tech:** Leveraging AI-driven tools to enhance business decision-making processes.
+
+---
+
+## 🎓 Certifications & Education
+
+* **Certified Data Analyst** (750-hour intensive program) – Mate Academy
+* **Umiejętności Jutra AI 3.0** – Google & SGH
+* **B.Eng. in Bioinformatics** – University of the National Education Commission in Kraków
+
+---
+
+## 📬 Connect with Me
+
+* 📧 **Email:** nikorajski29@gmail.com
+* 💼 **LinkedIn:** www.linkedin.com/in/niko-rajski-8a722a265
+
