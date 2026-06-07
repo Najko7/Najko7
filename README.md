@@ -33,6 +33,6 @@ Thanks to my experience in operational and laboratory environments, I excel at t
 
 ## 📬 Connect with Me
 
-* 📧 **Email:** nikorajski29@gmail.com
+* 📧 **Email:** da.niko.rajski@gmail.com
 * 💼 **LinkedIn:** www.linkedin.com/in/niko-rajski-8a722a265
 
